@@ -1,3 +1,9 @@
 [submodule "youngmenu-website"]
 	path = youngmenu-website
 	url = https://github.com/syamjayaraj/youngmenu-website
+[submodule "youngmenu-cms"]
+	path = youngmenu-cms
+	url = https://github.com/syamjayaraj/youngmenu-cms
+[submodule "youngmenu-backend"]
+	path = youngmenu-backend
+	url = https://github.com/syamjayaraj/youngmenu-backend
