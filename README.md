@@ -5,7 +5,6 @@ Youngmenu is a comprehensive restaurant management platform consisting of multip
 1. [youngmenu-website](https://github.com/syamjayaraj/youngmenu-website): A Next.js app for the youngmenu.com website with store listings and menus.
 2. [youngmenu-cms](https://github.com/syamjayaraj/youngmenu-cms): A Strapi CMS for managing website content, stores, and menu items.
 3. [youngmenu-backend](https://github.com/syamjayaraj/youngmenu-backend): An Express backend for the complete restaurant management app.
-4. [youngmenu-app](https://github.com/syamjayaraj/youngmenu-app): A React Native app for complete restaurant management.
 
 ## Getting Started
 
